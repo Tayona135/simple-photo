@@ -1,0 +1,29 @@
+div {
+    width: 312px;
+    height: 420px;
+    background-color: turquoise;
+    border: 8px solid rgb(240, 169, 180);
+    border-radius: 41px;
+}
+
+img {
+    width: 245px;
+    padding-left: 30px;
+    padding-top: 35px;
+}
+
+a {
+    text-decoration: none;
+    background-color: yellow;
+    border:5px solid rgb(222, 83, 104);
+    color: rgb(222, 83, 104);
+    margin-left: 75px;
+    margin-top: 5px;
+    transition: 2s;
+    display: inline-block;
+}
+a:hover {
+    background-color: rgb(222, 83, 104);
+    color:  yellow;
+    border-color: yellow;
+}

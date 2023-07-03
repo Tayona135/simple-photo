@@ -1,0 +1,25 @@
+.square{
+    width: 300px;
+    heigh: 300px;
+    border-radius: 15px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+}
+
+.red{
+    background-color: red;
+}
+
+.blue{
+    background-color: blue;
+}
+
+link {
+    display: inline-block; text-decoration: none; color: black; background-color: lime;
+    
+    padding-top: 10px;
+    
+    padding-bottom: 10px; padding-right: 15px;
+    
+    padding-left: 15px; margin-top: 50px;
+    }
